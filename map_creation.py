@@ -29,7 +29,8 @@ def geocode_with_exception(loc, geocode):
         return None
 
 
-def add_coordinates(df: pd.DataFrame, coordinates: List[float], num_places: int, geocode) -> pd.DataFrame:
+def add_coordinates(df: pd.DataFrame, coordinates: List[float],
+                    num_places: int, geocode) -> pd.DataFrame:
     """
     Add coordinates information to a slice of the given DataFrame.
     """
