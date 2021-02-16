@@ -43,7 +43,7 @@ Check the output file (films_map.html).
 
 ## Example
 
-![Map example (year: 2016)](example.jpg)
+![Map example (year: 2016)](example.jpeg)
 
 You can see your's location and locations of nearby places where different movies were recorded.
 Click on marker to see the name of the movie.
